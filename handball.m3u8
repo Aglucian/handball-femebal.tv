@@ -1,0 +1,41 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-name="FemebalTV" tvg-logo="https://i.imgur.com/Skf6vdi.png" group-title="Canales",FemebalTV
+https://www.youtube.com/user/FemebalTV/live
+
+#EXTINF:-1 tvg-name="HandballdePrimera" tvg-logo="https://i.imgur.com/Skf6vdi.png" group-title="Canales",HandballdePrimera
+https://www.youtube.com/@HandballdePrimera/live
+
+#EXTINF:-1 tvg-name="GoHandball" tvg-logo="https://i.imgur.com/Skf6vdi.png" group-title="Canales",GoHandball
+https://www.youtube.com/@gohandball/live
+
+#EXTINF:-1 tvg-name="DeportTV" tvg-logo="https://i.imgur.com/Skf6vdi.png" group-title="Canales",DeportTV
+https://www.youtube.com/@canaldeportv/live
+
+#EXTINF:-1 tvg-name="FerroHandballTV" tvg-logo="https://i.imgur.com/Skf6vdi.png" group-title="Equipos",FerroHandballTV
+https://www.youtube.com/@fcohandballtv/live
+
+#EXTINF:-1 tvg-name="San-Lorenzo" tvg-logo="https://i.imgur.com/Skf6vdi.png" group-title="Equipos",San-Lorenzo
+https://www.youtube.com/@HandballSanLorenzo/live
+
+#EXTINF:-1 tvg-name="SAG-Villa-Ballester" tvg-logo="https://i.imgur.com/Skf6vdi.png" group-title="Equipos",SAG-Villa-Ballester
+https://www.youtube.com/c/BallesterHandball/live
+
+#EXTINF:-1 tvg-name="Dorrego-Handball" tvg-logo="https://i.imgur.com/Skf6vdi.png" group-title="Equipos",Dorrego-Handball
+https://www.youtube.com/c/DorregoRadioHandball/live
+
+#EXTINF:-1 tvg-name="Nuestra-Senora-de-Lujan" tvg-logo="https://i.imgur.com/Skf6vdi.png" group-title="Equipos",Nuestra-Senora-de-Lujan
+https://www.youtube.com/@lujanhandball/live
+
+#EXTINF:-1 tvg-name="Boca-Juniors" tvg-logo="https://i.imgur.com/Skf6vdi.png" group-title="Equipos",Boca-Juniors
+https://www.youtube.com/@elcanaldeboca/live
+
+#EXTINF:-1 tvg-name="River-Plate" tvg-logo="https://i.imgur.com/Skf6vdi.png" group-title="Equipos",River Plate
+https://www.youtube.com/user/cariverplatetv/live
+
+#EXTINF:-1 tvg-name="Vicente-Lopez" tvg-logo="https://i.imgur.com/Skf6vdi.png" group-title="Equipos",Vicente Lopez
+https://www.youtube.com/@ViloHandball/live
+
+
+#EXTINF:-1 tvg-name="Mariano-Acosta" tvg-logo="https://i.imgur.com/Skf6vdi.png" group-title="Equipos",Mariano Acosta
+https://www.youtube.com/%40MarianoAcostaHandball/live
