@@ -17,7 +17,8 @@ $clubes = @(
     [PSCustomObject]@{ Nombre = "Boca Juniors"; Url = "https://www.youtube.com/@elcanaldeboca/live" },
     [PSCustomObject]@{ Nombre = "C.A. River Plate"; Url = "https://www.youtube.com/@cariverplatetv/live" },
     [PSCustomObject]@{ Nombre = "Mun. Vicente López (ViLo)"; Url = "https://www.youtube.com/@ViloHandball/live" },
-    [PSCustomObject]@{ Nombre = "Mariano Acosta"; Url = "https://www.youtube.com/@MarianoAcostaHandball/live" }
+    [PSCustomObject]@{ Nombre = "Mariano Acosta"; Url = "https://www.youtube.com/@MarianoAcostaHandball/live" },
+    [PSCustomObject]@{ Nombre = "SAGAB Lomas"; Url = "https://www.youtube.com/@SAGABHandball/live" }
 )
 
 $m3uContent = "#EXTM3U`n"
